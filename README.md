@@ -25,6 +25,7 @@
 
 #### Notas
 
+- El proyecto debe ser desarrollado en un repositorio nuevo creado específicamente para esta prueba.
 - Crear un CRUD por cada dominio.
 - Asugurate de validar los modelos de los datos antes de hacer una inserción a la base de datos
 - El objetivo final de la prueba es que un usuario pueda crear ordenes vinculadas a un truck, origen, destino y completar sus estatus.
