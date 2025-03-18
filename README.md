@@ -4,7 +4,6 @@
 
 ## Te damos la bienvenida al checkpoint para postulantes de **backend**
 
-- NodeJS
 - MongoDB
 - Typescript
 
@@ -12,7 +11,6 @@
 
 - Conocer bases y fundamentos de Typescript, NodeJS y MongoDB.
 - Desarrollar la lógica para una API, implementando interfaces, modelos, rutas y controladores.
-- Utilizar código limpio, utility types y buenas prácticas.
 - Implementar auth con JWT y validar el token antes de consumir cada servicio.
 - Como sugerencia puedes usar aggregations de MongoDB.
 
